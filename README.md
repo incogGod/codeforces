@@ -1,4 +1,4 @@
 
-Python problems solved in CodeForces.
+Problems solved in CodeForces.
 
 CodeForces profile : https://codeforces.com/profile/akpmpr
